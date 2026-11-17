@@ -1,0 +1,3 @@
+# Netlify publica solo la carpeta "site". No hay build: es un sitio estático.
+[build]
+  publish = "site"
